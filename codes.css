@@ -1,0 +1,63 @@
+.contenue{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    background-color: rgb(5,12,54);
+}
+.voir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    border: solid 2px white; 
+   
+
+}
+.ceder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    border: solid 2px white; 
+    
+   
+
+
+}
+.icon i{
+    padding: 20px 0;
+    font-size: 30px;
+    border-radius: 50%;
+}
+.icon{
+    background-color: rgb(18,24,64);
+}
+.paragraphe{
+    padding: 20px 0;
+}
+.titre{
+    padding: 20px 0;
+}
+.progress{
+    width: 100%;
+    height: 1px;
+    background-color: rgba(128, 128, 128, 0.322);
+    margin-top: 0.1px;
+
+}
+.bottonBtn{
+    margin-top: -10px;
+}
+.bottonBtn:hover{
+    background-color: rgb(14, 22, 75);
+}
+.envouter{
+;
+}
+   

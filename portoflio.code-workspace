@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../portoflio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ninetec",
+		"liveServer.settings.port": 5501
+	}
+}
